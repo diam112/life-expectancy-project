@@ -10,3 +10,18 @@ The analysis includes:
 - Professional charts for insights  
 
 ## Project Structure
+data/          # Contains the CSV dataset 
+notebooks/     # Analysis notebook
+
+## Libraries Used
+
+- pandas  
+- numpy  
+- matplotlib  
+- pycountry_convert  
+
+## How to Run
+
+1. Open `notebooks/analysis.ipynb` in Google Colab or Jupyter Notebook  
+2. Upload `Life_expectancy.csv` when prompted (Colab only)  
+3. Run all cells to reproduce the analysis
