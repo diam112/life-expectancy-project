@@ -1,22 +1,12 @@
-# Global Health Data Analysis
+# Life Expectancy Analysis
 
-## Overview
-This project explores publicly available global health datasets to identify epidemiological trends and extract meaningful insights using Python.
+This project analyzes **global life expectancy trends** using World Bank data.  
+The analysis includes:
 
-## Objective
-To demonstrate structured data cleaning, exploratory data analysis, and visualization techniques applied to real-world scientific data.
+- Cleaning and reshaping the dataset  
+- Global average life expectancy trends  
+- Comparison of life expectancy by continent  
+- Top 10 and bottom 10 countries visualized  
+- Professional charts for insights  
 
-## Tools Used
-- Python
-- Pandas
-- NumPy
-- Matplotlib
-
-## Methodology
-- Data preprocessing and cleaning
-- Exploratory data analysis
-- Statistical summarization
-- Visualization of trends
-
-## Project Status
-Initial structure created. Dataset integration and analysis in progress.
+## Project Structure
